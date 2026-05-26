@@ -1,0 +1,56 @@
+id,producto,opinion,estrellas
+1,iPhone 15 Pro,"La cámara es simplemente impresionante. Las fotos en modo nocturno superan todo lo que había usado antes. Vale cada peso.",5
+2,Samsung Galaxy S24,"La pantalla es hermosa y el rendimiento es fluido. Sin embargo la batería no dura lo que esperaba para un teléfono de esta gama.",3
+3,Audífonos Sony WH-1000XM5,"La cancelación de ruido es mágica. Me los pongo en la oficina y desaparezco del mundo. El sonido es cálido y detallado.",5
+4,Laptop Dell XPS 15,"Excelente pantalla OLED y rendimiento potente. Pero se calienta demasiado con tareas exigentes y el ventilador es muy ruidoso.",3
+5,iPad Pro M2,"El mejor dispositivo que he comprado. Con el Apple Pencil es una herramienta de trabajo increíble para diseño y notas.",5
+6,Xiaomi Redmi Note 12,"Para el precio que tiene el rendimiento es muy bueno. La cámara de día es decente pero de noche deja mucho que desear.",3
+7,Samsung Galaxy Watch 6,"El monitoreo de salud es preciso y la integración con Android es perfecta. La batería dura apenas un día y medio.",3
+8,Televisor LG OLED C3,"Los negros son absolutamente perfectos. Ver películas en este televisor es una experiencia cinematográfica en casa.",5
+9,Teclado mecánico Keychron K2,"Excelente construcción y las teclas se sienten increíbles al escribir. Llegó con una tecla defectuosa y el soporte tardó semanas.",2
+10,Mouse Logitech MX Master 3,"El mejor mouse que he usado en mi vida. Ergonómico preciso y la rueda de desplazamiento inteligente es un game changer.",5
+11,Auriculares JBL Tune 510BT,"Para su precio son muy buenos. La calidad de sonido es decente y la batería dura bastante. No tienen cancelación de ruido activa.",3
+12,Cargador inalámbrico Anker,"Dejó de funcionar al mes de uso. El soporte no respondió mis mensajes. Dinero completamente perdido.",1
+13,MacBook Air M2,"La batería dura todo el día y más. El rendimiento es increíble sin ventilador. El mejor portátil que he tenido.",5
+14,Monitor Samsung 27 pulgadas 4K,"Colores vibrantes y la resolución es espectacular para diseño gráfico. La base no permite ajuste de altura lo cual es incómodo.",4
+15,Cámara Canon EOS R50,"Perfecta para iniciar en fotografía. Fácil de usar y las fotos tienen una calidad profesional. El video en 4K es suave y nítido.",5
+16,Router TP-Link Archer AX73,"La señal WiFi 6 cubre toda mi casa de tres pisos. La configuración fue sencilla y la velocidad es consistente.",4
+17,Parlante Bluetooth JBL Charge 5,"Sonido potente y claro para su tamaño. Resistente al agua y la batería dura más de 20 horas. Perfecto para llevar a todas partes.",5
+18,Disco duro externo Seagate 2TB,"Llegó con sectores dañados desde la caja. Perdí archivos importantes antes de darme cuenta. Pésima experiencia.",1
+19,Tablet Lenovo Tab P12,"Buena pantalla y rendimiento aceptable. Pero el software viene con demasiadas aplicaciones preinstaladas que no se pueden eliminar.",2
+20,Apple Watch Series 9,"La integración con iPhone es perfecta. El ECG y el oxímetro son herramientas útiles. Solo le falta más duración de batería.",4
+21,Laptop HP Pavilion 15,"Para tareas básicas como navegar y trabajar en documentos funciona bien. Para edición de video o juegos se queda corta claramente.",3
+22,Auriculares Jabra Evolve2,"Perfectos para videollamadas de trabajo. El micrófono capta la voz con claridad y el sonido es limpio. Muy cómodos todo el día.",5
+23,Teclado Logitech MX Keys,"La retroiluminación adaptativa es inteligente y útil. Las teclas tienen el punto de actuación perfecto. Ideal para escritura larga.",5
+24,Proyector Epson Home Cinema,"La imagen es nítida y los colores son precisos. La configuración inicial es algo compleja pero el resultado final vale la pena.",4
+25,Motorola Edge 40,"Buen diseño y pantalla fluida a 144Hz. La cámara es inconsistente en condiciones de poca luz. El precio es competitivo.",3
+26,SSD Samsung 970 EVO 1TB,"Velocidades de lectura y escritura impresionantes. Mi laptop arranca en segundos. La mejor inversión que he hecho para mi equipo.",5
+27,Impresora Epson EcoTank L3250,"Imprime muy bien y la tinta dura muchísimo tiempo. La configuración WiFi fue un dolor de cabeza enorme. Tardé horas en conectarla.",2
+28,PlayStation 5,"Los juegos exclusivos son increíbles y el DualSense cambia completamente la experiencia de juego. Difícil de conseguir al precio oficial.",5
+29,Nintendo Switch OLED,"La pantalla OLED es preciosa para jugar en modo portátil. La batería podría durar más. Perfecta para viajes largos.",4
+30,Control Xbox Series X,"Ergonómico y cómodo para sesiones largas. La conectividad Bluetooth a veces falla y hay que reconectar. Build quality sólida.",3
+31,Drone DJI Mini 3,"Increíblemente fácil de volar para ser principiante. Las fotos aéreas son espectaculares. Las regulaciones de vuelo limitan bastante su uso.",4
+32,Cámara Wyze Cam,"Para el precio que tiene la calidad de imagen es sorprendente. La visión nocturna funciona bien. La app a veces tiene retrasos.",3
+33,Fitbit Charge 6,"El monitoreo del sueño es muy preciso y los datos de salud son útiles. La pantalla es pequeña y cuesta leer notificaciones.",3
+34,Laptop Asus ROG Zephyrus,"Rendimiento brutal para gaming y edición. La pantalla de 165Hz es suave como la seda. El peso es considerable para transportar.",4
+35,Teclado y mouse Microsoft inalámbrico,"Económico y funcional. La batería dura meses. No tiene retroiluminación y el mouse se siente barato en la mano.",2
+36,Amazon Echo,"La integración con Alexa es útil para domótica. El sonido es mediocre para escuchar música. Solo sirve como asistente.",2
+37,iPad Mini 6,"El tamaño es perfecto para leer y tomar notas en reuniones. El chip A15 lo hace muy rápido. El precio es elevado para lo que ofrece.",3
+38,Monitor LG UltraWide 34,"El espacio de pantalla para trabajar con múltiples ventanas es revolucionario. La curva es perfecta. Altavoces integrados son pésimos.",4
+39,Google Pixel 8,"La cámara computacional es la mejor en Android. Las actualizaciones de seguridad son puntuales. El diseño es sobrio y elegante.",5
+40,Micrófono Blue Yeti,"Calidad de audio profesional para streaming y grabación. Voluminoso pero la diferencia en sonido es notable. Plug and play perfecto.",5
+41,Microsoft Surface Pro 9,"Versátil como tablet y portátil al mismo tiempo. La batería no llega a las 8 horas prometidas en uso real intensivo.",3
+42,Beats Studio Pro,"El sonido es potente y con buenos graves. El precio es muy elevado comparado con Sony o Bose con mejor cancelación de ruido.",2
+43,RTX 4070,"Rendimiento excelente en 1440p. Los juegos modernos corren fluidos con ray tracing activado. El consumo energético es razonable.",5
+44,Memoria RAM Corsair Vengeance 32GB,"Instalación sencilla y rendimiento estable. Mi PC mejoró notablemente en multitarea y edición de video. Sin problemas desde hace un año.",5
+45,Router Mesh Eero Pro 6E,"Cubre perfectamente una casa grande sin zonas muertas. La app de gestión es intuitiva. El precio del kit completo es alto.",4
+46,OnePlus 12,"Carga rápida de 100W es increíble y llena la batería en 25 minutos. OxygenOS es limpio y fluido. Pocas opciones avanzadas de cámara.",4
+47,Webcam Logitech StreamCam,"Video en 1080p nítido y el autoenfoque funciona muy bien. Perfecta para streaming y videollamadas profesionales. Fácil de instalar.",5
+48,Garmin Forerunner 265,"El GPS es preciso y el monitoreo deportivo es el más completo del mercado. La pantalla AMOLED es hermosa. Ideal para atletas.",5
+49,GoPro Hero 12,"Estabilización de imagen increíble incluso en actividades extremas. La batería se agota rápido grabando en 4K a 60fps. Imprescindible para aventuras.",4
+50,Huawei P60 Pro,"La cámara Leica tiene una calidad fotográfica excepcional. Sin servicios de Google es un inconveniente enorme para el día a día.",2
+51,Laptop Acer Aspire 5,"Relación calidad precio excelente para estudiantes. Funciona bien para tareas universitarias. El trackpad es impreciso y frustrante de usar.",3
+52,Sennheiser HD 650,"Para escuchar música con un DAC externo la experiencia es sublime. No son para el usuario casual. Requieren amplificación adecuada.",5
+53,Amazon Fire HD 10,"Para consumir contenido como Netflix y YouTube funciona bien. El rendimiento general es lento y el ecosistema Amazon es limitante.",2
+54,Teclado HyperX Alloy,"Muy buena construcción y las teclas Cherry MX son consistentes. El software de configuración es torpe y poco intuitivo.",3
+55,Realme GT 5 Pro,"Rendimiento de gama alta a precio de gama media. La pantalla es brillante y el chip Snapdragon 8 Gen 2 vuela. Gran descubrimiento.",5
